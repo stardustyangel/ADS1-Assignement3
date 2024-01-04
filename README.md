@@ -12,6 +12,6 @@ This repository includes a python script that goes through a world bank data , a
 | Category       | Economical Studies                                                                                                                                                                                                                                                                                                                                     |
 | Data Type  | CSV Files                                                                                                                                                                                                                                                                                                                                       |
 | Files      | 1 CSV File , 1 Errors Module  , 1 Poster                                                                                                                                                                                                                                                                                                                                         |
-| Github Repo Link           |   [Github Repo]([https://github.com/stardustyangel/ADS1-Assignement2.git](https://github.com/stardustyangel/ADS1-Assignement3.git)https://github.com/stardustyangel/ADS1-Assignement3.git)  
+| Github Repo Link           |   [Click Here](https://github.com/stardustyangel/ADS1-Assignement3.git  )
 
 </div>
